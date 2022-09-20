@@ -1,0 +1,1 @@
+# Alfred-Quick-Add-to-Notion
